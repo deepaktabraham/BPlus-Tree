@@ -7,7 +7,7 @@ In this project, a C++ implementation of a memory-resident B+ tree is presented.
 ### Supported operations:
 1. Insert a key-value pair: **`Insert(key,value)`** 
 2. Return all values associated with a given key: **`Search(key)`**
-3. Return all key value pairs such in a given range: **`Search(key1,key2)`** 
+3. Return all key value pairs in a given range: **`Search(key1,key2)`** 
 
 
 ### Input-Output:
