@@ -11,7 +11,7 @@ In this project, a C++ implementation of a memory-resident B+ tree is presented.
 
 
 ### Expected Input:
-The program expects input to be provided in a text file. The first line of this input file should specify the order of the B+ tree. Subsequent lines can have any of the above supported operations,one operation per line. A sample input file is provided (input.txt) is provided.
+The program expects input to be provided in a text file. The first line of this input file should specify the order of the B+ tree. Subsequent lines can have any of the above supported operations,one operation per line. A sample input file is provided (input_file.txt) is provided.
 
 
 ### Commands:
