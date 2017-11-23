@@ -10,8 +10,10 @@ In this project, a C++ implementation of a memory-resident B+ tree is presented.
 3. Return all key value pairs such in a given range: **`Search(key1,key2)`** 
 
 
-### Expected Input:
-The program expects input to be provided in a text file. The first line of this input file should specify the order of the B+ tree. Subsequent lines can have any of the above supported operations,one operation per line. A sample input file is provided (input_file.txt) is provided.
+### Input-Output:
+The program expects input to be provided in a text file. The first line of this input file should specify the order of the B+ tree. Subsequent lines can have any of the above supported operations, one operation per line. A sample input file (input_file.txt) is provided.
+
+The B+ tree output for search queries will be written in to output_file.txt
 
 
 ### Commands:
